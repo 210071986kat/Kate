@@ -1,3 +1,4 @@
 name:Kate
 surname:Riznicova
 date:09.07.1986
+city:Pavlograd
